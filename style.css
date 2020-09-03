@@ -1,0 +1,57 @@
+#main {
+  background-color: #cccbca;
+}   
+h1 {
+  font-size:2.9em;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+}
+h3 {
+  font-size: 1.3em;
+  font-family: monospace;
+  text-align: center;
+  font-weight: normal;
+}
+h4 {
+  font-size: 1.4em;
+  font-weight: normal;
+  font-style: italic;
+  margin: 300px;
+  text-align: center;
+  margin-top: 0px;
+  font-family: monospace;
+}
+#img-div {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 10px 10px 10px;
+  background-color: white;
+  }
+@media only screen and (min-width: 480px) { 
+#image {
+  width: 100%;
+  height: 100%;
+  }
+} 
+#timeline {
+  margin: 200px;
+  margin-top: 0px;
+  font-family: monospace;
+  font-size: 1.4em;
+}
+#quote {
+  font-size: 1.3em;
+  font-style: italic;
+  padding-bottom: 50px;
+  margin-top: -105px;
+  margin-left: 275px;
+  margin-right: 275px;
+}
+#tribute-link {
+  font-size: 1.5em;
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px;
+}
